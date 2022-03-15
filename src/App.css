@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.main-background
+{
+  background-color: #218197;
+}
+
+.flex-row
+{
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+}
